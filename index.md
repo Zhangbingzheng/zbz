@@ -1,12 +1,4 @@
-<html> 
-<head> 
-<title>基底网址的设置</title> 
-<base href="<a href="http://www.jb51.net">http://www.jb51.net</a>" _target="_blank" /> 
-</head> 
-<body> 
-</body> 
-</html>
- Hello，everyone！
+  Hello，everyone！
 
   张炳正
 
