@@ -11,11 +11,11 @@
 
 <tr>
 
-<td>姓名：</td>
+<td>搜索：</td>
 
 <td>
 
-<input type="text" name="张炳正">
+<input type="text" name="name">
 
 </td>
 
@@ -23,11 +23,11 @@
 
 <tr>
 
-<td>年龄：</td>
+<td>分类：</td>
 
 <td>
 
-<input type="张炳正2" 张炳正1="name">
+<input type="text" name="name">
 
 </td>
 
