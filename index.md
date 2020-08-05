@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<entry key="app_preset_prof_preset_name">Blog on Tomcat  8.x Launch Configuration</entry>
-<entry key="app_preset_prof_preset_filter_s"/>
-<entry key="app_preset_prof_preset_filter_p">com.luotf.controller.*,
-com.luotf.mapper.*,
-com.luotf.model.*,
-com.luotf.service.*,
-com.luotf.util.*</entry>
-<entry key="app_preset_prof_preset_alloc_p">10</entry>
-<entry key="app_preset_"/>
-<entry key="app_preset_prof_preset_samplingRefreshRate_s">1000</entry>
-<entry key="app_preset_prof_preset_stacks_p">false</entry>
-<entry key="app_preset_prof_preset_roots_p">com.luotf.controller.**
-com.luotf.mapper.**
-com.luotf.model.**
-com.luotf.service.**
-com.luotf.util.**
-</entry>
-<entry key="profiler.settings.instrument.empty.methods">false</entry>
-<entry key="myeclipse.profiling.mode">0</entry>
-<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
-<entry key="app_preset_prof_preset_samplingRate_s">100</entry>
-<entry key="app_preset_prof_preset_filterMode_s">true</entry>
-<entry key="app_preset_prof_preset_selector"/>
-<entry key="app_preset_prof_preset_refreshRate_s">1000</entry>
-<entry key="app_preset_prof_preset_runnables_p">true</entry>
-<entry key="app_preset_prof_preset_filterMode_p">false</entry>
-<entry key="app_preset_prof_preset_memoryMode_p">true</entry>
-</properties>
-
  Hello，everyone！
 
   张炳正
@@ -39,3 +7,5 @@ com.luotf.util.**
   Tel：15612137449
   
   Email：zbz1004774379@outlook.com
+  
+  What you do makes a difference, and you have to decide what kind of difference you want to make.
