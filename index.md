@@ -7,11 +7,8 @@
   Tel：15612137449
   <table border=1 width="300">
 
-bai<tr style="text-align:center;">
 
-du<td colspan="2">信息统计表</td>
 
-</tr>
 
 <tr>
 
