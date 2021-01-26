@@ -10,12 +10,3 @@
   
   Difficult roads often lead to beautiful destinations.
   
-  git init
-  
-  git add "BrightonSnow"
- 
-  git commit -m "first commit"
- 
-  git remote add origin https://zhangbingzheng.github.io/zbz/
-
-  git push -u origin master
