@@ -1,1 +1,1 @@
-![1](https://github.com/Zhangbingzheng/zbz/upload/master/1.jpg)
+![1.jpg](https://github.com/Zhangbingzheng/zbz/upload/master/1)
